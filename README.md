@@ -9,3 +9,4 @@ Sources
 
 * [Python docs](https://docs.python.org/3/library/re.html)
 * [Python Docs](https://docs.python.org/3/howto/regex.html)
+* [Tutorials Points ](https://www.tutorialspoint.com/python/python_reg_expressions.htm)
